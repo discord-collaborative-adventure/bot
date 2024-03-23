@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('https://cdn.discordapp.com/attachments/1132431322149818480/1214154079161417749/Capture_decran_2024-03-04_a_11.10.18.png?ex=65f8141a&is=65e59f1a&hm=bdf96ba237cbfa9dcf28a9e0dcadc59678218b8ec0e45ee389b1a58ec3d0455e');
+    background-image: url('https://discord-collaborative-adventure.github.io/fr/background.png');
     background-size: cover;
     background-attachment: fixed; /* Ne pas fixer le fond pour les appareils mobiles */
 }
